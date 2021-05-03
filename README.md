@@ -1,0 +1,1 @@
+# jenkins-pipeline-nexus-maven-repo
